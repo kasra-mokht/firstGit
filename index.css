@@ -1,0 +1,12 @@
+/* *{
+
+padding: 0;
+box-sizing: border-box;
+} */
+body{
+    background-color: brown;
+}
+h1{ 
+    color: rgb(69, 0, 231);
+    margin: 0 auto;
+}
